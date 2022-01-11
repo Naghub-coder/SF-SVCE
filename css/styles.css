@@ -1,10 +1,4 @@
-/*
 
-Known Template 
-
-https://templatemo.com/tm-516-known
-
-*/
 
   @import url('https://fonts.googleapis.com/css?family=Muli:300,700|Nunito');
 
@@ -396,9 +390,6 @@ https://templatemo.com/tm-516-known
 
 
 
-  /*---------------------------------------
-      FEATURE              
-  -----------------------------------------*/
 
   .feature-thumb {
     border: 1px solid #f0f0f0;
@@ -490,9 +481,6 @@ https://templatemo.com/tm-516-known
   }
 
 
-  /*---------------------------------------
-      COURSES             
-  -----------------------------------------*/
 
   #courses .section-title {
     text-align: center;
@@ -593,9 +581,6 @@ https://templatemo.com/tm-516-known
 
 
 
-  /*---------------------------------------
-     NEWS              
-  -----------------------------------------*/
 
   .news-thumb {
     clear: both;
@@ -622,9 +607,6 @@ https://templatemo.com/tm-516-known
 
 
 
-  /*---------------------------------------
-      TESTIMONIAL             
-  -----------------------------------------*/
 
   #testimonial .item {
     background: #ffffff;
